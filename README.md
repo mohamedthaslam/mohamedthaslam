@@ -1,6 +1,6 @@
 <div align="center">
 
-[![header](https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0f172a,30:4c1d95,70:7c3aed,100:a78bfa&text=Mohamed%20Thaslam&fontColor=ffffff&fontSize=42&fontAlignY=35&desc=Fullstack%20Developer%20%7C%20UI%2FUX%20Enthusiast%20%7C%20)](https://github.com/mohamedthaslam)
+[![header](https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0f172a,30:4c1d95,70:7c3aed,100:a78bfa&text=Mohamed%20Thaslam&fontColor=ffffff&fontSize=42&fontAlignY=35&desc=Fullstack%20Developer%20%7C%20UI%2FUX%20Enthusiast%20%7)](https://github.com/mohamedthaslam)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Hey!+I'm+MohamedThaslam+👋;Fullstack+Developer+%F0%9F%92%BB;UI%2FUX+Enthusiast+%F0%9F%8E%A8;Glassmorphism+Lover+%E2%9C%A8)](https://git.io/typing-svg)
 
