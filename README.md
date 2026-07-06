@@ -21,7 +21,7 @@ const thaslam = {
   location  : "Tamil Nadu, India",
   passion   : "Building end-to-end web apps with beautiful UIs",
   aesthetic : ["Dark themes", "Glassmorphism", "Smooth animations"],
-  learning  : ["Cloud Computing", "Cybersecurity", "Three.js"],
+  learning  : ["cloud computing"],
   openTo    : "Internships & Collaborations ✨",
 };
 ```
